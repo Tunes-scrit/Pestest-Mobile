@@ -1,6 +1,6 @@
 # Pestest-Mobile
 
-Para o Script Funcionar é preciso Instalar:
+Para o Script funcionar é preciso Instalar:
 - SDK
 - JDK
 - Android Virtual Device
